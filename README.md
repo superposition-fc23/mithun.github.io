@@ -6,7 +6,7 @@ This is my personal portfolio website.
 - About me section
 - Career highlights
 - Skills & expertise
-- Projects and products built
+- Products built
 
 ## How to run locally
 1. Clone this repository
