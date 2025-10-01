@@ -1,6 +1,6 @@
 # Mithun Manjunath Portfolio Website
 
-This is my personal portfolio website, built from my PDF portfolio and hosted on **GitHub Pages**.
+This is my personal portfolio website.
 
 ## Features
 - About me section
